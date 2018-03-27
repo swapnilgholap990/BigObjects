@@ -56,10 +56,7 @@
     <indexes>
         <fullName>Rider_History_Index</fullName>
         <label>Rider History Index</label>
-        <fields>
-            <name>Account__c</name>
-            <sortDirection>DESC</sortDirection>
-        </fields>
+        
         <fields>
             <name>Rider_Account__c</name>
             <sortDirection>DESC</sortDirection>
