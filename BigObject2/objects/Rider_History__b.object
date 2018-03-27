@@ -24,6 +24,7 @@
         <label>Start Time</label>
         <required>true</required>
         <type>DateTime</type>
+	<unique>false</unique>
     </fields>
 	
 	<fields>
