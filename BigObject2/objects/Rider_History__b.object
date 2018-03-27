@@ -54,7 +54,7 @@
 	<fields>
         <fullName>Rider_Rating__c</fullName>
         <label>Rider Rating</label>        
-        <required>true</required>
+        <required>false</required>
         <type>Number</type>
         <unique>false</unique>
 	<scale>1</scale>
