@@ -42,14 +42,22 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    
+    <fields>
+        <fullName>Rider_Account__c</fullName>
+        <label>Rider Account</label>
+        <length>16</length>
+        <required>true</required>
+        <type>Text</type>       
+    </fields>
 	
 	<fields>
-        <fullName>Rider_Account__c	</fullName>
+        <fullName>Rider_Rating__c</fullName>
         <label>Rider Rating</label>        
         <required>true</required>
         <type>Number</type>
         <unique>false</unique>
-		<scale>1</scale>
+	<scale>1</scale>
         <precision>2</precision>
     </fields>
 	
