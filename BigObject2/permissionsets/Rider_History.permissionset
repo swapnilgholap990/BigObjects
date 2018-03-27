@@ -19,6 +19,12 @@
         <field>rider_history__b.End_Time__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>rider_history__b.Rider_Rating__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
      
     <fieldPermissions>
         <editable>true</editable>
