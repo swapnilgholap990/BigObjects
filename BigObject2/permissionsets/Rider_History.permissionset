@@ -26,11 +26,7 @@
         <readable>true</readable>
     </fieldPermissions>
 	
-	 <fieldPermissions>
-        <editable>true</editable>
-        <field>rider_history__b.Rider_Account__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
+	
      
      <label>Rider History Permission Set</label>
 </PermissionSet>
